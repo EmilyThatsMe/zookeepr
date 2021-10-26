@@ -36,6 +36,8 @@ function findById(id, animalsArray) {
   return result;
 }
 
+
+
 app.get('/api/animals', (req, res) => {
   let results = animals;
   if (req.query) {
@@ -55,6 +57,10 @@ app.get('/api/animals/:id', (req, res) => {
 
 app.listen(PORT, () => {
   console.log(`API server now on port ${PORT}!`);
+});
+
+app.get('/', (req, res) => {
+  res.send("zookeepr is up and running");
 });
 
 //pushing to heroku
