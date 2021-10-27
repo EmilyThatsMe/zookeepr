@@ -101,31 +101,8 @@
       ]
     },
     {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "10"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "11"
-    },
-    {
-      "name": "Gary",
-      "species": "Snail",
-      "diet": "herbivore",
-      "personalityTraits": [
-        "zany"
-      ],
-      "id": "12"
+      "name": "Darlene",
+      "id": "jhgdja3ng2"
     }
   ]
 }
